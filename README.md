@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-Download Element on [our website](https://eleemntcode.io/).
+Download Element on [our website](https://elementcode.io/).
